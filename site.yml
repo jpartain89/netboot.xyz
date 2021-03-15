@@ -1,6 +1,6 @@
 ---
-- hosts: localhost
-  user: root
+- hosts: rpi35
+  user: jpartain89
   roles:
     - netbootxyz
   vars_files:
